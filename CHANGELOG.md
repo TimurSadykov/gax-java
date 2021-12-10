@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.7.2](https://www.github.com/googleapis/gax-java/compare/v2.7.1...v2.7.2) (2021-12-10)
+
+
+### Dependencies
+
+* upgrade common-protos to 2.7.0 ([#1579](https://www.github.com/googleapis/gax-java/issues/1579)) ([0a10f5f](https://www.github.com/googleapis/gax-java/commit/0a10f5fe77ab26b3ac7d4c590360945ead72eca1))
+
 ### [2.7.1](https://www.github.com/googleapis/gax-java/compare/v2.7.0...v2.7.1) (2021-12-02)
 
 
